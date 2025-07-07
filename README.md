@@ -25,7 +25,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 The project uses the Breast Cancer Wisconsin (Diagnostic) Dataset.
 This dataset contains features collected from digitized images of breast mass cell samples, focusing on key measurements to detect tumors.
 
-🔗 Download Dataset Here
 
 ✨ Feature Overview
 Here are some of the important features used to train the model:
