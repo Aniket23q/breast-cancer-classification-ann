@@ -46,15 +46,21 @@ Smoothness, Compactness, Concavity: Surface and contour characteristics
 Symmetry, Fractal Dimension: Indicators of tumor structure and shape irregularities
 
 🗂️ Project Structure
+
 text
+
 Copy
+
 Edit
+
+breast-cancer-classification-ann/
+
 breast-cancer-classification-ann/
 │
 ├── breast_cancer_ann.ipynb   # Main Jupyter Notebook
+├── README.md                 # Project documentationk
 ├── breast_cancer_data.csv    # Dataset file
-├── README.md                 # Project documentation
-└── requirements.txt          # (Optional) List of libraries
+
 📈 What’s Inside
 Data cleaning and preprocessing
 
