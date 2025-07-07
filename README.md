@@ -1,8 +1,10 @@
 Project Overview
+
 In this project, I’ve built an Artificial Neural Network (ANN) to help classify breast cancer tumors as either benign (B) or malignant (M) using patient diagnostic data.
 The main goal is to support early detection because catching cancer early can make a big difference in treatment and survival rates.
 
 ⚙️ Requirements
+
 Before you run the project, make sure you have these Python libraries installed:
 
 pandas
@@ -17,16 +19,20 @@ seaborn
 
 You can quickly install them using this command:
 
+
 bash
 Copy
 Edit
 pip install pandas numpy scikit-learn matplotlib seaborn
+
 📊 Dataset
+
 The project uses the Breast Cancer Wisconsin (Diagnostic) Dataset.
 This dataset contains features collected from digitized images of breast mass cell samples, focusing on key measurements to detect tumors.
 
 
 ✨ Feature Overview
+
 Here are some of the important features used to train the model:
 
 ID: Unique ID for each patient sample
